@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zaliczenie", "Zaliczenie\Zaliczenie.csproj", "{B89425C7-9019-479E-9683-A1BF67D67D4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B89425C7-9019-479E-9683-A1BF67D67D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B89425C7-9019-479E-9683-A1BF67D67D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B89425C7-9019-479E-9683-A1BF67D67D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B89425C7-9019-479E-9683-A1BF67D67D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41B5638C-1B7D-4CDD-94A5-10485AADD7B9}
+	EndGlobalSection
+EndGlobal

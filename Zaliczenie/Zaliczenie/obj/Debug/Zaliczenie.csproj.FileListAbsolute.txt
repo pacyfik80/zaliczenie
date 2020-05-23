@@ -1,0 +1,15 @@
+C:\Users\romad001\source\repos\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.csprojAssemblyReference.cache
+C:\Users\romad001\source\repos\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.Form1.resources
+C:\Users\romad001\source\repos\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.Properties.Resources.resources
+C:\Users\romad001\source\repos\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.csproj.GenerateResource.cache
+C:\Users\romad001\source\repos\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\romad001\source\repos\Zaliczenie\Zaliczenie\bin\Debug\Zaliczenie.exe.config
+C:\Users\romad001\source\repos\Zaliczenie\Zaliczenie\bin\Debug\Zaliczenie.exe
+C:\Users\romad001\source\repos\Zaliczenie\Zaliczenie\bin\Debug\Zaliczenie.pdb
+C:\Users\romad001\source\repos\Zaliczenie\Zaliczenie\bin\Debug\EntityFramework.dll
+C:\Users\romad001\source\repos\Zaliczenie\Zaliczenie\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\romad001\source\repos\Zaliczenie\Zaliczenie\bin\Debug\EntityFramework.xml
+C:\Users\romad001\source\repos\Zaliczenie\Zaliczenie\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\romad001\source\repos\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.csproj.CopyComplete
+C:\Users\romad001\source\repos\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.exe
+C:\Users\romad001\source\repos\Zaliczenie\Zaliczenie\obj\Debug\Zaliczenie.pdb
